@@ -398,3 +398,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/styled-icons/sponsor/7/website" target="_blank"><img src="https://opencollective.com/styled-icons/sponsor/7/avatar.svg"></a>
 <a href="https://opencollective.com/styled-icons/sponsor/8/website" target="_blank"><img src="https://opencollective.com/styled-icons/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/styled-icons/sponsor/9/website" target="_blank"><img src="https://opencollective.com/styled-icons/sponsor/9/avatar.svg"></a>
+
+
+currently i am studying this repo 08/08/2023
